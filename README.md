@@ -61,6 +61,7 @@ todo list 2018
 - 안드로이드 mousepad
 - WebVR
 - 웹기반 안드로이드 IDE
+- 프랙탈
 - ?
 
 
