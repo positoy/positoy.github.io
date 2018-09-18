@@ -69,3 +69,27 @@ todo list 2018
 
 - [구글은 어떻게 일하는가](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=46695416)
 - [구글의 아침은 자유가 시작된다](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58332162)
+
+
+6. 블로그
+---------------------
+- [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)
+- Month0 : Udacity CS101, Harvard CS50
+- Month1 : Harvard CS50, LTLDR, inux, 1st Meetup, freeCodeCamp
+- Month2 : YDKJS, freeCodeCamp Front End, React
+- Month3 : freeCodeCamp React, CodeClub, Starting freeCodeCamp Back End
+- Month4 : Finished freeCodeCamp Back End, Yeggle
+- Month5 : StockIT
+- Month6 : jobSort(), Job Hunt Prep
+- Month7 : Testing, Job Hunting
+- Month8 : Night Shift, Redux, Open Source, Onsite Interview
+- Month9 : Job Offer
+
+
+6. Advice
+---------------------
+- Find out what motivates you and use it to your advantage.
+- Make goals and meet them.
+- Go to meetups way before you think you are ready.
+- Contribute to open source way before you think you are ready.
+- Start applying way before you think you are ready.
