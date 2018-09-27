@@ -26,6 +26,8 @@ todo list 2018
 ---------------------
 
 ### Frontend
+- React-Native & React-Navigation
+  - [How to make it compatible all the devices](https://medium.com/@shanerudolfworktive/7-tips-to-develop-react-native-uis-for-all-screen-sizes-7ec5271be25c)
 - [카카오톡프론트엔드 클론코딩](https://academy.nomadcoders.co/courses/enrolled/203015)
 - [넷플릭스 클론코딩](https://academy.nomadcoders.co/courses/enrolled/351710)
 - 인스타그램
