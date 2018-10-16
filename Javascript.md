@@ -65,3 +65,39 @@
     }
     var apple = new Apple();
 
+# [call, apply, bind](https://blog.weirdx.io/post/3214)
+
+1. 필요성
+
+    var apple = new function() {
+            this.x = 1;
+            this.y = 2;
+            this.printSum = function() {
+                    console.log(this.x + this.y);
+            }
+
+            function printMultiply(a,b) {
+                    console.log(this.x * this.y);
+                    console.log(a,b);
+            }
+
+            this.func = function() {
+                    printMultiply(); // NaN!
+            }
+            this.funcCall = function() {
+                    printMultiply.call(this,10,100);
+            }
+            this.funcApply = function() {
+                    printMultiply.apply(this,[10,100]);
+            }
+            this.funcBind = function() {
+                    var bindFunc = printMultiply.bind(this);
+                    bindFunc();
+            }
+    }
+
+2. function.prototype.call(this, param1, param2, ...)
+
+3. function.prototype.apply(this. [param1, param2, ...])
+
+4. function.prototype.bind(this) => new binded function
